@@ -3,6 +3,11 @@ body {
     padding: 1rem;
     box-sizing: border-box;
     background-color: #f2f2f2;
+    background-image: url("./image/image2.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    background-position-y: 5rem;
 }
 
 html,body {
